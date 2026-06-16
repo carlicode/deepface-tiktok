@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+
+# DeepFace descarga los modelos aquí
+.deepface/
+
+# Fotos personales
+*.jpg
+*.jpeg
+*.png
+*.mp4
+!assets/
+
+# macOS
+.DS_Store
